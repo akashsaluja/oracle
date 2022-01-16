@@ -1,1 +1,1 @@
-# oracle
+# POC about the use of knowledge graphs to do event enrichment
